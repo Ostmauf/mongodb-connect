@@ -1,0 +1,23 @@
+{
+  "name": "mongodb-connect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ostmauf/mongodb-connect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ostmauf/mongodb-connect/issues"
+  },
+  "homepage": "https://github.com/Ostmauf/mongodb-connect#readme",
+  "dependencies": {
+    "mongoose": "^6.0.12"
+  }
+}
